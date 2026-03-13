@@ -9,7 +9,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/fmlucero"><img src="https://img.shields.io/badge/ROLE-Co--Founder%20%7C%20MiFusi%C3%B3n%20IT-00d4ff?style=for-the-badge&labelColor=020205" /></a>
   <a href="https://github.com/fmlucero"><img src="https://img.shields.io/badge/+7%20YEARS-Software%20%7C%20AI%20%7C%20Data-00ffaa?style=for-the-badge&labelColor=020205" /></a>
 </div>
 

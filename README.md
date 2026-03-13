@@ -33,7 +33,7 @@
 ║   ⬡ Sistemas RAG con LangChain, LlamaIndex & Vector DBs            ║
 ║   ⬡ Trading algorítmico y modelos predictivos                       ║
 ║                                                                      ║
-║   Co-Fundador de MiFusión IT:                                        ║
+║   IT:                                        ║
 ║   Desarrollo · QA · Ciberseguridad · Data & AI                       ║
 ║                                                                      ║
 ║   📍 San Rafael, Mendoza, Argentina                                  ║
